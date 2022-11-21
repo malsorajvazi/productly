@@ -24,6 +24,10 @@ p {
     color: black;
 }
 
+.navigation-links a:hover {
+    color: #FF9900;
+}
+
 .navigation-links button {
     margin-left: 20px;
     
