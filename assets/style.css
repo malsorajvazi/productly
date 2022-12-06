@@ -23,7 +23,8 @@ h1 h2 h3{
 }
 
 .container {
-    margin: 0 200px 0 200px;
+    width: 1126px;
+    margin: auto;
 }
 
 .navigation-links a {
@@ -107,7 +108,7 @@ h1 h2 h3{
 
 .cards {
     margin-top: 54px;
-    display: flex;
+    display: flex; 
     justify-content: space-between;
     
 }
